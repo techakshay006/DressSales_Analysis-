@@ -21,12 +21,12 @@ Thankyou for stopping by here and noe lets see which all steps need to be follow
 
 So, steps involved to do this are
 
-a. Data types Identification.
-b. See any vulnurability in rows and columns and fix it.
-c. Try to analyze what should be done with missing values remove/impute.
-d. There may be outliers need to be handle.
-e. Must be invalid values as well fix them.
-f. Last but not the least standardize the values and filter the data which is required for analysis.
+  a. Data types Identification.
+  b. See any vulnurability in rows and columns and fix it.
+  c. Try to analyze what should be done with missing values remove/impute.
+  d. There may be outliers need to be handle.
+  e. Must be invalid values as well fix them.
+  f. Last but not the least standardize the values and filter the data which is required for analysis.
 
 2. Univariate Analysis
 
