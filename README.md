@@ -33,20 +33,20 @@ So, steps involved to do this are
       --Why univariate analysis is important?
       --Because it gives exposure to handle missing values, invalid values, outliers in single column or variable analysis.
       
-a. Categorical unordered analysis (means data which contains non mesurable items)
-b. Categorical Ordered Analysis (means data which contains measurable items)
-c. Statistics on Numerical features (means quantitative analysis)
+      a. Categorical unordered analysis (means data which contains non mesurable items)
+      b. Categorical Ordered Analysis (means data which contains measurable items)
+      c. Statistics on Numerical features (means quantitative analysis)
 
 3. Bivariate & Multivariate Analysis
 
       --Why Bivariate & Multivariate is important?
       --Becaise it allows us to analyse 2 or more than 2 variable/columns analysis.
       
-a. Numeric-Numeric Analysis (Self explanatory term analysis between 2 numeric variables/columns)
-b. Numeric-Categorical Analysis (Pretty much self explanatory term analysis between one numeric and one categorical variables/columns)
-c. Categorical-Categorical Analysis (This term also explains straight analysis between 2 categorical variables/columns)
-d. Multivariate Analysis (More that 2 variables/columns analysis, preferably plot is heatmap)
-e. Correlation vs Causation (Does not imply all the time with each other means Spurious Correlations -- refer to this website for more insights "tylervigen.com" )
+      a. Numeric-Numeric Analysis (Self explanatory term analysis between 2 numeric variables/columns)
+      b. Numeric-Categorical Analysis (Pretty much self explanatory term analysis between one numeric and one categorical variables/columns)
+      c. Categorical-Categorical Analysis (This term also explains straight analysis between 2 categorical variables/columns)
+      d. Multivariate Analysis (More that 2 variables/columns analysis, preferably plot is heatmap)
+      e. Correlation vs Causation (Does not imply all the time with each other means Spurious Correlations -- refer to this website for more insights "tylervigen.com" )
 
 Now, you have better understanding on EDA(Exploratory Data Analysis). 
 
