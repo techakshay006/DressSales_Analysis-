@@ -2,8 +2,9 @@
 Here, you will find very interesting EDA analysis on Retail Sales.
 
 In accordance with 2 Data sets :
-  1> Attribute_Dataset
-  2> Dress_Sales
+
+      1) Attribute_Dataset.
+      2) Dress_Sales.
   
 1. Attribute_Dataset sets contains 479 rows x 13 columns where it defines the Dress Id , Style of dress, Cost of Dress, Material or which fabric type is used etc.
 2. Dress_sales sets contains 479 rows x 24 columns where it defines the Dress Id and corresponding how much individual sales happend in particular day.
