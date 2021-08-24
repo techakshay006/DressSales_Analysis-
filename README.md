@@ -43,10 +43,12 @@ So, steps involved to do this are
       --Becaise it allows us to analyse 2 or more than 2 variable/columns analysis.
       
         a. Numeric-Numeric Analysis (Self explanatory term analysis between 2 numeric variables/columns)
-        b. Numeric-Categorical Analysis (Pretty much self explanatory term analysis between one numeric and one categorical variables/columns)
+        b. Numeric-Categorical Analysis (Pretty much self explanatory term analysis between one numeric and one 
+                                          categorical variables/columns)
         c. Categorical-Categorical Analysis (This term also explains straight analysis between 2 categorical variables/columns)
         d. Multivariate Analysis (More that 2 variables/columns analysis, preferably plot is heatmap)
-        e. Correlation vs Causation (Does not imply all the time with each other means Spurious Correlations -- refer to this website for more insights "tylervigen.com" )
+        e. Correlation vs Causation (Does not imply all the time with each other means Spurious Correlations
+                                      -- refer to this website for more insights "tylervigen.com" )
 
 Now, you have better understanding on EDA(Exploratory Data Analysis). 
 
