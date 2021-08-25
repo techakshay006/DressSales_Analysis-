@@ -13,7 +13,7 @@ So, here one can find the analysis regarding how much sales is driven in which s
 
 But, before we proceed further one thing to be note while having EDA analysis which is Data should be clean and efficient to have analysis.
 
-Thankyou for stopping by here and noe lets see which all steps need to be followed after getting data with an example of this category.
+Thankyou for stopping by here and now lets see which all steps need to be followed after getting data with an example of this category.
 
 1. Data Cleaning:
 
